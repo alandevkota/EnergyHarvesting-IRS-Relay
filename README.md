@@ -4,7 +4,7 @@
 
 _Please see presentation report **Alan_Devkota_presentation.pdf** for more information_ (Click here to open: [Link Alan_Devkota_presentation.pdf click here](./Alan_Devkota_presentation.pdf))
 
-_Please see my thesis report file for more information_ (Link: [Link Thesis_Report click here](https://search.proquest.com/openview/51b8734f2a802215f1a126e336c397f8/1?pq-origsite=gscholar&cbl=18750&diss=y))
+_Please see my thesis report file for more information_ (Link: [Link Thesis_Report click here](https://www.proquest.com/docview/2744623082?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses))
 
 # System and channel model
 
